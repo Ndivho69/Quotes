@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+}
+.card-body {
+  padding: 40px;
+}
+.trademark{
+  text-align: right;
+  padding: 100px;
+}
